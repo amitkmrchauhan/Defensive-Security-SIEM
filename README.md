@@ -1,4 +1,4 @@
-<h1>Exploit Vulnerabilities of a Corporation's Web Application, Linux Servers, and Windows Servers (PenTesting)</h1>
+<h1>Building Security Monitoring Environment - Splunk (SIEM)</h1>
 
 <h2>Description</h2>
 As a cybersecurity expert, I utilized Splunk to create a streamlined security monitoring infrastructure for our organization, focusing on Windows and Apache log files. Splunk served as the centralized platform for gathering, analyzing, and visualizing security data from these sources within our network. Microsoft Windows OS logs played a crucial role in ensuring the stability, security, and scalability of our setup. Through tailored configurations, we optimized performance and resilience against threats. Integration of Apache log files into Splunk fortified our defenses against web-based attacks, enabling real-time monitoring of web traffic and application behavior for rapid threat response. Rigorous testing against simulated cyber attacks validated the effectiveness of our monitoring environment in safeguarding digital assets.
