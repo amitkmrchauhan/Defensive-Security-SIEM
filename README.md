@@ -19,23 +19,23 @@ During a concise Microsoft PowerPoint presentation, I highlighted the benefits o
 
 <p align="center">
 'Website Monitoring' Add-On Application: <br/>
-<img src="https://imgur.com/a/T0eWhzE" height="80%" width="80%" alt="Website Monitoring App"/>
+<img src="https://i.imgur.com/3HYCEt5.png" height="80%" width="80%" alt="Website Monitoring App"/>
 <br />
 <br />
 Windows Server Monitoring Dashboard:  <br/>
-<img src="https://imgur.com/DZPNIJB" height="80%" width="80%" alt="Windows DB"/>
+<img src="https://i.imgur.com/DZPNIJB.png" height="80%" width="80%" alt="Windows DB"/>
 <br />
 <br />
 Apache Server Monitoring Dashboard:  <br/>
-<img src="https://imgur.com/5ONDvJQ" height="80%" width="80%" alt="Apache DB"/>
+<img src="https://i.imgur.com/5ONDvJQ.png" height="80%" width="80%" alt="Apache DB"/>
 <br />
 <br />
 Windows Server Monitoring Post Attack Dashboard: <br/>
-<img src="https://imgur.com/a/PhlwGfb" height="80%" width="80%" alt="Windows Attack DB"/>
+<img src="https://i.imgur.com/zsrQGSv.png" height="80%" width="80%" alt="Windows Attack DB"/>
 <br />
 <br />
 Apache Server Monitoring Post Attack Dashboard:  <br/>
-<img src="https://imgur.com/a/d2j6cqa" height="80%" width="80%" alt="Apache Attack DB"/>
+<img src="https://i.imgur.com/2y19u78.png" height="80%" width="80%" alt="Apache Attack DB"/>
 </p>
 
 
